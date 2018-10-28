@@ -4,7 +4,7 @@ UDACITY SDCND Term3 Project2: Functional Safety Project
 ## Overview
 
 This project deals with partial Functional Safety analysis of Lane Assistance System based on ISO 26262 standard. 
-ISO 26262 deals with the Functional Safety of the Electrical and Electronics components of a sytem.
+ISO 26262 deals with the Functional Safety of the Electrical and Electronics components of a system.
 
 Lane Assistance system, which is a functionality of Self Driving Car has two major functions: 
 
