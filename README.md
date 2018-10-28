@@ -16,10 +16,10 @@ Document templates, architectural diagrams and guidance on how to approach the p
 
 Functional Safety analysis of present system consists of following documents:
 
-    Safety Plan
-    Hazard Analysis and Risk Assessment
-    Functional Safety Concept
-    Technical Safety Concept
-    Software Requirements
+   1. Safety Plan
+   2. Hazard Analysis and Risk Assessment
+   3. Functional Safety Concept
+   4. Technical Safety Concept
+   5. Software Requirements
 
 Present analysis has been done for the partial system and will require additional analysis to cover entire system.
